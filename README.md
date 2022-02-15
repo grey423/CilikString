@@ -1,6 +1,6 @@
-# Pyrogram and Telethon String Session Bot [CilikStringBot](https://t.me/CilikStringBot)
+# String Sessions Bot [CilikStringBot](https://t.me/CilikStringBot)
 
-<p align="center"><a href="https://t.me/CilikSupport"><img src="https://telegra.ph/file/d6b61422b8a81da6e1d65.jpg" width="2000"></a></p>
+<p align="center"><a href="https://t.me/CilikSupport"><img src="https://telegra.ph/file/8869f987fc55ad1ecfc6d.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -44,14 +44,6 @@ Telegram bot to generate pyrogram and telethon string session.
 - `DATABASE_URL` - Will be automatically added by Heroku.
 - `MUST_JOIN` - Username/ID of your telegram channel/group.
 
-## Functions
-
-> More features soon if suggested by you :)
-
-## To-Do
-
-> That's on you mainly...
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Credits
@@ -65,11 +57,3 @@ Telegram bot to generate pyrogram and telethon string session.
 Channel :- [Support Channel](https://t.me/CilikProject)
 
 Group Chat :- [Group support](https://t.me/CilikSupport)
-
-## :)
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Tonic990)
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/Tonic990)
